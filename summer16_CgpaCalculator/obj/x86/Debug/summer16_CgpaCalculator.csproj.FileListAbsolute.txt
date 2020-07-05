@@ -1,0 +1,8 @@
+c:\users\rothi\documents\visual studio 2010\Projects\summer16_CgpaCalculator\summer16_CgpaCalculator\bin\Debug\summer16_CgpaCalculator.exe
+c:\users\rothi\documents\visual studio 2010\Projects\summer16_CgpaCalculator\summer16_CgpaCalculator\bin\Debug\summer16_CgpaCalculator.pdb
+c:\users\rothi\documents\visual studio 2010\Projects\summer16_CgpaCalculator\summer16_CgpaCalculator\obj\x86\Debug\summer16_CgpaCalculator.Form1.resources
+c:\users\rothi\documents\visual studio 2010\Projects\summer16_CgpaCalculator\summer16_CgpaCalculator\obj\x86\Debug\summer16_CgpaCalculator.Properties.Resources.resources
+c:\users\rothi\documents\visual studio 2010\Projects\summer16_CgpaCalculator\summer16_CgpaCalculator\obj\x86\Debug\summer16_CgpaCalculator.csproj.GenerateResource.Cache
+c:\users\rothi\documents\visual studio 2010\Projects\summer16_CgpaCalculator\summer16_CgpaCalculator\obj\x86\Debug\summer16_CgpaCalculator.exe
+c:\users\rothi\documents\visual studio 2010\Projects\summer16_CgpaCalculator\summer16_CgpaCalculator\obj\x86\Debug\summer16_CgpaCalculator.pdb
+C:\Users\ROTHI\Documents\Visual Studio 2010\Projects\summer16_CgpaCalculator\summer16_CgpaCalculator\obj\x86\Debug\summer16_CgpaCalculator.csprojResolveAssemblyReference.cache
